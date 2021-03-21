@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Website-Clone-1/static/css/main.77f38db6.chunk.css",
+    "main.css": "/Website-Clone-1/static/css/main.23ff11d6.chunk.css",
     "main.js": "/Website-Clone-1/static/js/main.b435a2b0.chunk.js",
     "main.js.map": "/Website-Clone-1/static/js/main.b435a2b0.chunk.js.map",
     "runtime-main.js": "/Website-Clone-1/static/js/runtime-main.74f0da82.js",
@@ -10,7 +10,7 @@
     "static/js/3.17824b12.chunk.js": "/Website-Clone-1/static/js/3.17824b12.chunk.js",
     "static/js/3.17824b12.chunk.js.map": "/Website-Clone-1/static/js/3.17824b12.chunk.js.map",
     "index.html": "/Website-Clone-1/index.html",
-    "static/css/main.77f38db6.chunk.css.map": "/Website-Clone-1/static/css/main.77f38db6.chunk.css.map",
+    "static/css/main.23ff11d6.chunk.css.map": "/Website-Clone-1/static/css/main.23ff11d6.chunk.css.map",
     "static/js/2.8058c2e5.chunk.js.LICENSE.txt": "/Website-Clone-1/static/js/2.8058c2e5.chunk.js.LICENSE.txt",
     "static/media/Header.scss": "/Website-Clone-1/static/media/rightA.9364026a.svg",
     "static/media/Portfolio.scss": "/Website-Clone-1/static/media/img7.238dfa9d.jpg",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.74f0da82.js",
     "static/js/2.8058c2e5.chunk.js",
-    "static/css/main.77f38db6.chunk.css",
+    "static/css/main.23ff11d6.chunk.css",
     "static/js/main.b435a2b0.chunk.js"
   ]
 }
