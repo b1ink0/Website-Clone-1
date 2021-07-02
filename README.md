@@ -1,1 +1,1 @@
-https://stupidgaming.github.io/Website-Clone-1/
+https://b1ink0.github.io/Website-Clone-1/
